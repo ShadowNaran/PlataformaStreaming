@@ -1,0 +1,13 @@
+# Variables de entorno locales
+.env
+.env.*
+!.env.example
+
+# Compilación de .NET
+[Bb]in/
+[Oo]bj/
+
+# Archivos locales de Visual Studio
+.vs/
+*.user
+*.suo
